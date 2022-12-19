@@ -5,7 +5,7 @@ Projeto, simulando uma estufa de hortaliças, desenvolvido no simulador TinkerCa
 O projeto possui as seguintes  funcionalidades:
 
 - Leitura de temperatura;
-- Acionamento de um motor a temperatura seja igual ou maior a 30 °C;
+- Acionamento de um motor quando a temperatura for igual ou maior a 30 °C;
 - Aciona um LED vermelho e uma buzina Caso a temperatura ultrapasse os 50 °C.
 
 
